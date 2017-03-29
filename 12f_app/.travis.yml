@@ -4,7 +4,9 @@ script: mvn clean install
 deploy:
   edge: true
   provider: cloudfoundry
-  username: dhoucgitter 
+  username: dhoucgitter
   api: https://api.run.pivotal.io
   organization: houck.dave-org
   space: development
+  password:
+    secure: X+akqedUZTwoSVvN7TtAo2XOcwvsoDie4G4J26XHn1WcUrJpSc6FMF726RK8MH8FUxbDYOAne+LsBGlJ+Uu3za+dZf0QDcqaqrcKOjdf9fGbCpfeYM9PoiT4N6GbGNPQoltk6stt0qJZe7p0tNozOtQwNd3v34C4uWd6HkjjXIjFIUr5+NAQVvLg6dBQmnVfKzbeXg5wqBp88WG+P7nFqx0IHat5UEjRh9Q7/rOLfrCbKp9Fw2FjIN3jHnR07aglY7H0hXPHWvfyGuqv1tvsiuAQTBDzJdPmaxX/YfyAiHVV4tYXKHxa2Ok79lENFNFkKWE3OhlPl3hIErNCjKMSFK/KbcxjeP8tPTuhDHA9pB7o+ZjAFp6VSiFLjwQveqJ5wjAYJvs3D2VWJZhcdYucrCgPIYeC30hHZ59ySPq4lAqWMdo2C5sZx8w8wDrK1jLp1nR1qmShkFNfe3ilDOzzQbLXl2cbY+rxQgIBRkh6HfUsTkrSkcSgJrRcQkm/cBJoZvs9nzytXSAg+EeuaDgPpHdaJgCVYz5xn8EuIGOGaTASZjJRfrqKyZA4lF8L6yDtcP4JE8enMTK72sGJ3BsZjImQ20CggZ0r+yAoBiPwKNd1AYwctGmPJJX8MEJ/2qDMPQ2I2sampkzYbxNT6JgfHN8qi2a5c9epCN5wa1EYzcM=
