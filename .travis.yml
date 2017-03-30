@@ -8,4 +8,5 @@ deploy:
   api: https://api.run.pivotal.io
   organization: houck.dave-org
   space: development
-  password: @234Peanut
+  password:
+    secure: hqOYLQyPTCxW7QoX5g+xSXmVxYlMRBjmd0Gp3QxMkNu2uJvZ0P4Aq0Ny0edIK7amhnIJ79VjHWyGkdAYHDkBkglUI7fIZ4JysGhz3y06BqJa0mf511QLK/XCm2BrUuqdfC26hE6r+C6U+mRM8xJ2IbAPgWmWS23VkWpoL6vPMIeC9QYUElgFTuQfM4hYhwY3W1GUpycrTgJ6sMBdUGDHCqBx6nnYR4R+fkaWeBoqhrl0dlC+1Pke/HV+PDGjA0+VK0iH223yINbaZ0jZxKEGnlCO/b82Yu+NobUlCtUGoOC/Y+/LEGu2w23I0d1w0eyL+SmhROLtmaHB1Xqtbcr8HLC0i+QAfkiSmiKFcCtUmDI9bSlKKTcJJVOkJRDrSt/elouoycq5o/EyWP3B7GIAqwig9sHO/U0ewnucQsnVolbgcEEEdSSuTk/OZy8JFsnzRmODYhnND7I5XMfSql+S47h76x/bRsof93cUO6qB1v1du/OakcxOMLEfFpLzGXpXgrbc32H6o1mUlFJaG8X/lVtj/FaerRH3BmATNsw1rr0VoqPkk/K3WeS8XYR3neYEWzBQcbpj+KX0aaYVOSRKHT/PiXRZnwNSG9CXkjNcBeP+cTAvJnPI2eEmekSC7mFVuSlbGw00P1MqYanuAmeTL5cvBhQqBNupzNL6MFdodGw=
