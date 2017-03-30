@@ -3,4 +3,4 @@ applications:
   path: target/config_server-1.0-SNAPSHOT.jar
   memory: 512M
   env:
-    spring.cloud.config.server.git.uri: https://github.com/YOUR_USERNAME/config-repository
+    spring.cloud.config.server.git.uri: https://github.com/dhoucgitter/config-repository
